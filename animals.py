@@ -1,0 +1,17 @@
+from models import Animal_walk, Animal_swim, Animal_slither
+
+Joycelyn=Animal_walk("Joycelyn", "Elephant", "2020-10-13", "morning")
+Josephina=Animal_walk("Josephina", "Buffalo", "2020-10-13, midday")
+Gudrun=Animal_walk("Gudrun", "Lynx", "2020-10-13", "midday")
+Delana=Animal_walk("Delana", "Tapir", "2020-10-13", "afternoon")
+Ashlie=Animal_walk("Ashlie", "Ground Hog", "2020-10-13", "afternoon")
+Catharine=Animal_slither("Catharine", "Death Adder", "2020-10-13")
+Nohemi=Animal_slither("Nohemi", "Yellow Anaconda", "2020-10-13")
+Rosanne=Animal_slither("Rosanne", "Texas vlind snake", "2020-10-13")
+Luvenia=Animal_slither("Luvenia", "Tree boa", "2020-10-13")
+Edyth=Animal_slither("Edyth", "Chicken snake", "2020-10-13")
+Isidro=Animal_swim("Isidro", "Flatfish", "2020-10-13")
+Stanley=Animal_swim("Stanley", "Blueline tilefish", "2020-10-13")
+Cristy=Animal_swim("Cristy", "Waekfish", "2020-10-13")
+Kizzy=Animal_swim("Kizzy", "Bluefin tuna", "2020-10-13")
+Taunya=Animal_swim("Taunya", "Blackfin tuna", "2020-10-13")
